@@ -23,6 +23,5 @@ Features such as Chatting, creating resume, writing reviews, recommended jobs, p
 ![image](https://github.com/SileshAK/SeekandRecruit.com/assets/98336512/544a7165-a77b-4e6e-b8e2-59827a9bd2a6)
 
 # Contributed By
-1. Silesh A K
-2. Raj Kumar K
-3. Suganth Kumar V
+Silesh A K
+
